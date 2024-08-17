@@ -1,3 +1,27 @@
 <resources>
-    <string name="app_name">CountNumGame</string>
+    <string name="app_name">カウントゲーム</string>
+
+    <string name="playerNum">プレイ人数</string>
+    <string name="playerNumSuffix">人</string>
+    <string name="playerNumErr">人数は2人以上を設定してください</string>
+    <string name="stockSize">カウント</string>
+    <string name="stockSizeErr">カウントは1以上を設定してください</string>
+
+    <string name="rule">ルール</string>
+    <string name="rule_1">各プレイヤーは山札から1枚以上3枚以下のカードを山札から引く</string>
+    <string name="rule_2">最後の一枚を引いたプレイヤーは最下位</string>
+    <string name="rule_3">最下位以外のプレイヤーの順位は引いたカードの合計値で決定する</string>
+
+    <string name="start">スタート</string>
+
+    <string name="stock">山札</string>
+    <string name="score">スコア</string>
+    <string name="player">現在のプレイヤー</string>
+    <string name="remainStock">残り枚数</string>
+    <string name="next">次のカード</string>
+    <string name="hit">1枚引く</string>
+    <string name="change">交代</string>
+
+    <string name="result">結果</string>
+    <string name="end">終了</string>
 </resources>
